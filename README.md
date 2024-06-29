@@ -28,17 +28,17 @@ This project implements a face recognition system using Python, OpenCV, and Tkin
 ## Setup
 
 1. Clone the repository:
-   
-   `git clone https://github.com/toximate/face-recognition-tkinter.git`
-    `
-   `
-   `cd face-recognition-tkinter`
-
+   ```sh
+   git clone https://github.com/toximate/face-recognition-tkinter.git
+   ``` 
+   ```sh
+   cd face-recognition-tkinter
+   ```
 3. Install the required packages:
-
-    `pip install -r requirements.txt`
-
+      ```sh
+    pip install -r requirements.txt
+      ```
 4. Run the application:
-
-    `python face_recognition_tkinter.py`
-
+      ```sh
+    python face_recognition_tkinter.py
+      ```
