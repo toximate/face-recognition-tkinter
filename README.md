@@ -4,7 +4,7 @@ This project implements a face recognition system using Python, OpenCV, and Tkin
 
 ## Features
 
-- **Face Detection**: Uses Haarcascade classifiers to detect faces in real-time.
+- **Face Detection**: Uses Haarcascade classifiers to detect provided faces in real-time.
 - **Face Recognition**: Implements a simple face recognition mechanism to identify faces.
 - **Interactive GUI**: Provides a user-friendly interface built with Tkinter for easy interaction.
 
